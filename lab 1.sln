@@ -5,16 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab 1", "WebApplication1\lab 1.csproj", "{A48F3695-659B-4E06-9FB5-F1E5964C2C8A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E5BA3B80-5688-41A8-B565-6EC1BA3744B7}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\web apps\Lab 1\index-lab1.html = ..\..\..\web apps\Lab 1\index-lab1.html
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "styles", "styles", "{04777F29-9A16-45F7-8046-37BDA5FBFAD1}"
-	ProjectSection(SolutionItems) = preProject
-		styles.css = styles.css
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
